@@ -1,0 +1,5 @@
+Qué hace esta ruta:
+Esta ruta recibe información enviada por el usuario mediante una solicitud POST. Toma el mensaje enviado y responde con un JSON confirmando que el reporte fue recibido.
+
+Para qué podría servir en una aplicación comunitaria:
+Podría utilizarse para que los ciudadanos envíen reportes, quejas, sugerencias o alertas sobre problemas de la comunidad, como daños en vías, fallas en servicios públicos o situaciones de seguridad.
