@@ -1,0 +1,5 @@
+{
+  "tipo": "Fuga de agua",
+  "descripcion": "Los vecinos reportan que hay una tubería rota en la calle principal y se está desperdiciando mucha agua desde esta mañana."
+}
+

@@ -1,0 +1,11 @@
+Es de vital importancia porque, cuando la ciudadanía reporta incidentes como 
+fallas en los servicios o daños viales, cada persona tiende a describir la 
+situación a su manera. Si las plataformas reciben esta información de forma libre,
+se genera un desorden de datos que resulta muy complejo y lento de procesar manualmente. 
+Al estructurar los reportes mediante campos específicos o formularios fijos, 
+el sistema puede capturar datos limpios, uniformes y organizados desde el primer momento. 
+Esto permite que el software clasifique y direccione automáticamente cada caso al 
+departamento encargado sin perder tiempo valioso. Además, facilita el almacenamiento en 
+bases de datos para generar estadísticas o mapas de calor sobre las problemáticas más urgentes 
+de la comunidad. En definitiva, la información estructurada optimiza los recursos de soporte y 
+garantiza una respuesta muchísimo más rápida y eficiente para el ciudadano.
