@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de patrullaje policial en la zona comercial durante los fines de semana"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Semaforo averiado en la interseccion de la avenida principal con calle diez"
+}

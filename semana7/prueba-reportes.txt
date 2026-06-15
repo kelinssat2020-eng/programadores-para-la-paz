@@ -1,0 +1,5 @@
+Al consultar la ruta GET http://localhost:3000/reportes, el servidor Express responde devolviendo un 
+arreglo en formato JSON que contiene todos los reportes almacenados en la memoria local. 
+En esta prueba, el resultado muestra el objeto que registramos previamente mediante la petición POST. 
+Se puede observar que el servidor le asigno de forma automatica un identificador unico "id": 1, junto 
+con los datos enviados de tipo "Infraestructura" y la descripcion del daño en el alumbrado publico.
