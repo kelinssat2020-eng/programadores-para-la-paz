@@ -1,0 +1,9 @@
+1. Moderar publicaciones para bloquear enlaces sospechosos
+
+2. Ocultar los teléfonos de los vecinos ante desconocidos
+
+3. Cerrar la sesión de forma automática por inactividad
+
+4. Bloquear la edición de reportes hechos por otros usuarios
+
+5. Monitorear los cambios críticos en las configuraciones
